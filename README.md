@@ -23,6 +23,10 @@
 ![Static Badge](https://img.shields.io/badge/CSS-%230000FF)
 ![Static Badge](https://img.shields.io/badge/Html-%234B0082)
 
+* Html : 웹 페이지 구조
+* CSS : 웹 페이지 구성
+* Javascript : 
+
 ## 📌 웹 서비스 구조도 
 ![structure](https://github.com/SemiKwon/Dev_Forest/assets/76101347/d16d58a3-b150-4dd8-a065-feb6a9a72f71)
 
