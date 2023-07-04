@@ -29,7 +29,7 @@
 * Node.js : 브라우저 말고도 로컬 PC에서도 실행시키는 실행창, 웹 서버 구축 가능
 * MySQL : 데이터베이스 관리 시스템
 
-Html과 CSS를 통해 웹 페이지를 만든 뒤에 Node.js로 웹 서버를 구축하여 
+우선 Html과 CSS를 통해 웹 페이지를 만들었습니다. 다음으로 Javascript를 이용해 웹 페이지를 연동할 수 있게 하였고, Node.js로 웹 서버를 구축하여 웹 페이지를 실행할 수 있게 하였습니다. Node.js와 MySQL을 연결하여 데이터베이스를 관리하여 웹 페이지에 필요한 정보를 저장하거나 삭제할 수 있게 만들었습니다.
 
 ## 📌 웹 서비스 구조도 
 ![structure](https://github.com/SemiKwon/Dev_Forest/assets/76101347/d16d58a3-b150-4dd8-a065-feb6a9a72f71)
