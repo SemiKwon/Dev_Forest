@@ -25,7 +25,9 @@
 
 * Html : 웹 페이지 구조
 * CSS : 웹 페이지 구성
-* Javascript : 
+* Javascript : 웹페이지를 움직이게 만들 때 사용. Html 조작
+* Node.js : 브라우저 말고도 로컬 PC에서도 실행시키는 실행창, 웹 서버 구축 가능
+* MySQL : 데이터베이스 관리 시스템
 
 ## 📌 웹 서비스 구조도 
 ![structure](https://github.com/SemiKwon/Dev_Forest/assets/76101347/d16d58a3-b150-4dd8-a065-feb6a9a72f71)
