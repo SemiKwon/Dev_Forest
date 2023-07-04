@@ -18,6 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-%23FF0000)
 ![Static Badge](https://img.shields.io/badge/MySQL-%23FFA500)
 
+
 ![Static Badge](https://img.shields.io/badge/Javascript-%23006400)
 ![Static Badge](https://img.shields.io/badge/CSS-%230000FF)
 ![Static Badge](https://img.shields.io/badge/Html-%234B0082)
