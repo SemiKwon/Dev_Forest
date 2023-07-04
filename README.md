@@ -16,9 +16,10 @@
 
 ## 📌 웹 서비스 구현 요소
 ![Static Badge](https://img.shields.io/badge/Node.js-%23FF0000)
-![Static Badge](https://img.shields.io/badge/Javascript-%23FFA500)
-![Static Badge](https://img.shields.io/badge/CSS-%23006400)
-![Static Badge](https://img.shields.io/badge/Html-%230000FF)
+![Static Badge](https://img.shields.io/badge/MySQL-%23FFA500)
+![Static Badge](https://img.shields.io/badge/Javascript-%23006400)
+![Static Badge](https://img.shields.io/badge/CSS-%230000FF)
+![Static Badge](https://img.shields.io/badge/Html-%234B0082)
 
 ## 📌 웹 서비스 구조도 
 ![structure](https://github.com/SemiKwon/Dev_Forest/assets/76101347/d16d58a3-b150-4dd8-a065-feb6a9a72f71)
