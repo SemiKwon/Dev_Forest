@@ -14,7 +14,15 @@
 * 명예의 전당 : 지식인처럼 답변을 달고 해당 답변이 채택될 경우 포인트를 합산하여, 개인 순위/소속에 대한 순위를 제공 → 동기와 성취감을 얻을 수 있음.
 * 정보 공유 : 답변이 달린 게시글은 삭제되지 않고 모든 사용자들이 볼 수 있음.
 
+## 📌 코드 구현
+![Static Badge](https://img.shields.io/badge/Node.js-%23FF0000)
+![Static Badge](https://img.shields.io/badge/Javascript-%23FFA500)
+![Static Badge](https://img.shields.io/badge/CSS-%23006400)
+![Static Badge](https://img.shields.io/badge/Html-%230000FF)
+
 ## 📌 웹 서비스 구조도 
 ![structure](https://github.com/SemiKwon/Dev_Forest/assets/76101347/d16d58a3-b150-4dd8-a065-feb6a9a72f71)
 
-## 📌 웹 서비스 
+## 📌 구성
+1. 로그인/로그아웃
+   * 회원 정보 불러오기 → session authenticate:true 처리 
