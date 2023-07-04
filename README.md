@@ -24,9 +24,9 @@
 ![structure](https://github.com/SemiKwon/Dev_Forest/assets/76101347/d16d58a3-b150-4dd8-a065-feb6a9a72f71)
 
 ## 📌 구성
-1. 로그인/로그아웃
-   * 회원 정보 불러오기 → session authenticate:true 처리 → **회원 정보 DB 세션 테이블**에 저장
-   * session 회원 정보 지우기 → session authenticate:false 처리 → DB의 세션 테이블에 저장
+**1. 로그인/로그아웃**
+   - 회원 정보 불러오기 → session authenticate:true 처리 → **회원 정보 DB 세션 테이블**에 저장
+   - session 회원 정보 지우기 → session authenticate:false 처리 → DB의 세션 테이블에 저장
 
 2. 검색
    * 회원 정보 불러오기 → session authenticate:true 처리 → **회원 정보 DB 세션 테이블**에 저장
